@@ -39,7 +39,6 @@
   -	Right click on your project > open in file explorer
   -	Example file contents could look like: 
     apple iPhone
-    =========================
     Screen Size: 4.5
     Internal Storage Size: 4.5
 
