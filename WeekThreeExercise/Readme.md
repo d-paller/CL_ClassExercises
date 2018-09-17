@@ -38,8 +38,11 @@
 13.	Now check your bin/debug folder for your file
   -	Right click on your project > open in file explorer
   -	Example file contents could look like: 
+  
     apple iPhone
+    
     Screen Size: 4.5
+    
     Internal Storage Size: 4.5
 
 14.	Now run your program again.  Put wrong values for each input.  Put a word for a number.
