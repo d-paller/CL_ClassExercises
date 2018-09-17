@@ -1,12 +1,12 @@
 1. Create a new console app (don’t forget to give it a descriptive name!)
 2.	Add a class to the project.  It can be anything you want.  For my examples, we will be using a Phone object.
-a.	Right click on the project > add > class
-b.	Make sure it is a public class
+  a.	Right click on the project > add > class
+  b.	Make sure it is a public class
 3.	Add some properties to the class.
-a.	Make at least one of type string.
-b.	Make at least one of type int.
-c.	Make at least one of type double.
-d.	Remember the four parts of a property:  Access modifier, type, name, getters and setters
+  a.	Make at least one of type string.
+  b.	Make at least one of type int.
+  c.	Make at least one of type double.
+  d.	Remember the four parts of a property:  Access modifier, type, name, getters and setters
 4.	Instantiate an instance of your class in the Main method of the Program class.
 a.	The three parts of this are: type name = new type();
 5.	Start populating your classes properties using Console.ReadLine()
@@ -37,10 +37,12 @@ a.	Make sure to put the correct types in.  Don’t put a word for a number value
 13.	Now check your bin/debug folder for your file
 a.	Right click on your project > open in file explorer
 b.	Example file contents could look like: 
+
 apple iPhone
 =========================
 Screen Size: 4.5
 Internal Storage Size: 4.5
+
 
 14.	Now run your program again.  Put wrong values for each input.  Put a word for a number.
 a.	You should get an error.  Go and see if you file updated.
