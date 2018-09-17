@@ -1,7 +1,7 @@
-1. Create a new console app (don’t forget to give it a descriptive name!)
-2.	Add a class to the project.  It can be anything you want.  For my examples, we will be using a Phone object.
-  a.	Right click on the project > add > class
-  b.	Make sure it is a public class
+- Create a new console app (don’t forget to give it a descriptive name!)
+-	Add a class to the project.  It can be anything you want.  For my examples, we will be using a Phone object.
+  -	Right click on the project > add > class
+  -	Make sure it is a public class
 3.	Add some properties to the class.
   a.	Make at least one of type string.
   b.	Make at least one of type int.
