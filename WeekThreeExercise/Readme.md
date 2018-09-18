@@ -50,4 +50,6 @@
 15.	Your file should not have been updated because the flow of your program was interrupted by an exception. 
 
 # Bonus
-See if you can get your program to finish even if you input bad data
+See if you can get your program to finish (write data to the file) even if you input bad data.  This could be by either providing a default value ("Bad data" or NA) for the bad ata or by skipping over that section with the bad data.
+
+Key terms to research: Exception Handling; Type conversion
