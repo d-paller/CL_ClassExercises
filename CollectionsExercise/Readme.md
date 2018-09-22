@@ -72,14 +72,14 @@ Add a contains method.
 	`public int Contains(string value) 
 	{ 
 		bool found = false;
-        // Loop through the list until the end or the value is found
+		// Loop through the list until the end or the value is found
 		while ()
-        {
-            // If equal, set found to true
+		{
+			// If equal, set found to true
 
 			// Otherwise, increment the counter
-               
-        }
+
+		}
 
 		// If found, return the location it was found
 
