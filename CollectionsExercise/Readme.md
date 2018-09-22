@@ -68,8 +68,8 @@ If you need a list, use the built in Collections List<>.
 
 Add a contains method.
 	- Here is the method stub (There *are things missing*): 
-	
-	`public int Contains(string value) 
+	`
+	public int Contains(string value) 
 	{ 
 		bool found = false;
 		// Loop through the list until the end or the value is found
@@ -85,6 +85,7 @@ Add a contains method.
 
 		// If not, return a negative number
 					
-	}`
+	}
+	`
 
 There are countless other things to add: Remove, Resize, Clear, AddRange, and Length just to name a few!
