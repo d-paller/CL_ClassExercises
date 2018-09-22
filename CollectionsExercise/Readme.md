@@ -1,8 +1,8 @@
-##Description
+# Description 
 The purpose of this exercise is to give experience using arrays.  Most real-world applications will not require this level of sophistication as all of these functions are already implimented for you.
 If you need a list, use the built in Collections List<>.
 
-##Exercise
+# Exercise 
 1. Create a new console app.
 2. Add a class to your project called "MyList".
 	- Right click on your project > add > class
@@ -64,7 +64,7 @@ If you need a list, use the built in Collections List<>.
 		- Run again and you should be good to go!
 
 
-##Bonus
+# Bonus
 
 Add a contains method.
 	- Here is the method stub (There *are things missing*): 
