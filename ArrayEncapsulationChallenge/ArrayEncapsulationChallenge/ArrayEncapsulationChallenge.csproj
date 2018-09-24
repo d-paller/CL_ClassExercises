@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{298A02B3-3175-4639-84F5-FC96D63ADAEC}</ProjectGuid>
+    <ProjectGuid>{53788DB2-EE93-476F-A382-A5E207E76A13}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>CollectionsExercise</RootNamespace>
     <AssemblyName>CollectionsExercise</AssemblyName>
@@ -42,8 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="FileParser.cs" />
-    <Compile Include="IFileParser.cs" />
+    <Compile Include="MyList.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

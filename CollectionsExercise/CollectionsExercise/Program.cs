@@ -10,24 +10,14 @@ namespace CollectionsExercise
     {
         static void Main(string[] args)
         {
-            MyList list = new MyList(5);
-            string three = "three";
-            int four = 4;
+            IFileParser parser = new FileParser();
 
-            list.Add("one");
-            list.Add("two");
-            list.Add(three);
-            list.Add(four.ToString());
-            list.Add("lastItem");
+            var data = parser.Read("../../../data.txt");
 
-            Console.WriteLine("Item at index 0: " + list.Get(0));
-            Console.WriteLine("Item at index 1: " + list.Get(1));
-            Console.WriteLine("Item at index 4 (which will be the last item): " + list.Get(four));
-
-            Console.WriteLine("The whole list");
-            Console.WriteLine(list.ToString());
-
-            Console.WriteLine("Index of two: " + list.Contains("two"));
+            for (int i = 0; i < data.Length; i++)
+            {
+                Console.WriteLine(data[i]);
+            }
 
             Console.ReadKey();
         }
