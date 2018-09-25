@@ -1,6 +1,6 @@
 # Exercise
 1. Create a new project
-	- Remeber to give it a meaningful name
+	- Remember to give it a meaningful name
 2. Add a class to your project called "FileParser".  This will act as your "data layer"
 3. Add an interface to your project.  Call it IFileParser
 	- Add a method signature to your interface and call it "Read".  It will return an array of strings and take one string parameter called "path"
