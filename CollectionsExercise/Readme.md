@@ -27,7 +27,7 @@
 	- `IFileParser parser = new FileParser();`
 15. Use the parsers Read method.
 	- Since it returns an array, be sure to have a variable to 'catch' the value (assign it to something).
-	- Pass in the path to your file.
+	- Pass in the path to your file.  You can get the data (data.txt) from here: https://github.com/d-paller/CL_ClassExercises/tree/master/CollectionsExercise
 		- You can give it a relative path: ../../../data.txt
 		- The ../ means "up one folder"
 16. Loop through the array and print out all of the values in the array
