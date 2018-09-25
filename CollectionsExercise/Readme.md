@@ -4,7 +4,7 @@
 2. Add a class to your project called "FileParser".  This will act as your "data layer"
 3. Add an interface to your project.  Call it IFileParser
 	- Add a method signature to your interface and call it "Read".  It will return an array of strings and take one string parameter called "path"
-4. Make your FileParser class impliment IDataReader (you will get errors if you do this properly)
+4. Make your FileParser class impliment IFileParser (you will get errors if you do this properly)
 	- Add the Read method to your class.
 5. Inside of the read method add two local variable.  One will be an int called "arraySize", the other a string array called "array"
 	- These don't have to be asigned to anthing right now, just declared.
