@@ -3,7 +3,7 @@
 	- Make sure that it's public
 2. Add an Interface called IFileUtility
 	- Make sure that it's public
-3. In the git repository, go to the "Stubs" folder. 
+3. In the git repository, go to the "FileIO" folder. 
 	- There will be files named the same as yours but will have 'Stub' appended to the end.
 	- Copy the contents of the _class_ and _interface_ into your class and interface
 	- By contents I mean what's in the class and interface, not the interface and class themselves
