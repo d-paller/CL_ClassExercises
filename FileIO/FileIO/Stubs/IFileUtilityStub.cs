@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace FileIO
 {
-    public interface IFileUtility
+    public interface IFileUtilityStub
     {
         // Add a interface method called WriteToFile here:
         // It should return void and take a string parameter called value

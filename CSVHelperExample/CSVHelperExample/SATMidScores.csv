@@ -1,0 +1,130 @@
+UNITID,INSTNM,CITY,STABBR,INSTURL,SATVRMID,SATMTMID,SATWRMID
+100654,Alabama A & M University,Normal,AL,www.aamu.edu/,425,420,414
+100663,University of Alabama at Birmingham,Birmingham,AL,www.uab.edu,560,575,NULL
+100690,Amridge University,Montgomery,AL,www.amridgeuniversity.edu,NULL,NULL,NULL
+100706,University of Alabama in Huntsville,Huntsville,AL,www.uah.edu,590,610,NULL
+100724,Alabama State University,Montgomery,AL,www.alasu.edu,415,410,NULL
+100751,The University of Alabama,Tuscaloosa,AL,www.ua.edu/,550,555,540
+100760,Central Alabama Community College,Alexander City,AL,www.cacc.edu,NULL,NULL,NULL
+100812,Athens State University,Athens,AL,www.athens.edu,NULL,NULL,NULL
+100830,Auburn University at Montgomery,Montgomery,AL,www.aum.edu,465,470,NULL
+100858,Auburn University,Auburn,AL,www.auburn.edu,575,585,570
+100937,Birmingham Southern College,Birmingham,AL,www.bsc.edu/,555,530,NULL
+101028,Chattahoochee Valley Community College,Phenix City,AL,www.cv.edu,NULL,NULL,NULL
+101073,Concordia College Alabama,Selma,AL,www.ccal.edu/,NULL,NULL,NULL
+101116,South University-Montgomery,Montgomery,AL,"www.southuniversity.edu/montgomery#location=Montgomery,%20AL",NULL,NULL,NULL
+101143,Enterprise State Community College,Enterprise,AL,www.escc.edu,NULL,NULL,NULL
+101161,Coastal Alabama Community College,Bay Minette,AL,www.coastalalabama.edu,NULL,NULL,NULL
+101189,Faulkner University,Montgomery,AL,www.faulkner.edu,500,500,470
+101240,Gadsden State Community College,Gadsden,AL,www.gadsdenstate.edu,NULL,NULL,NULL
+101277,New Beginning College of Cosmetology,Albertville,AL,www.nbccosmetology.com,NULL,NULL,NULL
+101286,George C Wallace Community College-Dothan,Dothan,AL,www.wallace.edu,NULL,NULL,NULL
+101295,George C Wallace State Community College-Hanceville,Hanceville,AL,www.wallacestate.edu,NULL,NULL,NULL
+101301,George C Wallace State Community College-Selma,Selma,AL,www.wccs.edu,NULL,NULL,NULL
+101365,Herzing University-Birmingham,Birmingham,AL,www.herzing.edu/,NULL,NULL,NULL
+101435,Huntingdon College,Montgomery,AL,www.huntingdon.edu,473,475,NULL
+101453,Heritage Christian University,Florence,AL,www.hcu.edu,NULL,NULL,430
+101462,J. F. Drake State Community and Technical College,Huntsville,AL,www.drakestate.edu,NULL,NULL,NULL
+101471,J F Ingram State Technical College,Deatsville,AL,www.istc.edu,NULL,NULL,NULL
+101480,Jacksonville State University,Jacksonville,AL,www.jsu.edu/,500,495,NULL
+101499,Jefferson Davis Community College,Brewton,AL,www.coastalalabama.edu,NULL,NULL,NULL
+101505,Jefferson State Community College,Birmingham,AL,www.jeffersonstate.edu/,NULL,NULL,NULL
+101514,John C Calhoun State Community College,Tanner,AL,calhoun.edu/,NULL,NULL,NULL
+101541,Judson College,Marion,AL,www.judson.edu,581,531,NULL
+101569,Lawson State Community College-Birmingham Campus,Birmingham,AL,www.lawsonstate.edu,NULL,NULL,NULL
+101587,University of West Alabama,Livingston,AL,www.uwa.edu,480,460,475
+101602,Lurleen B Wallace Community College,Andalusia,AL,www.lbwcc.edu,NULL,NULL,NULL
+101648,Marion Military Institute,Marion,AL,www.marionmilitary.edu,540,555,NULL
+101675,Miles College,Fairfield,AL,www.miles.edu,NULL,NULL,NULL
+101693,University of Mobile,Mobile,AL,www.umobile.edu,485,500,NULL
+101709,University of Montevallo,Montevallo,AL,www.montevallo.edu,530,520,528
+101736,Northwest-Shoals Community College,Muscle Shoals,AL,https://www.nwscc.edu,NULL,NULL,NULL
+101879,University of North Alabama,Florence,AL,www.una.edu,475,483,NULL
+101897,Northeast Alabama Community College,Rainsville,AL,https://www.nacc.edu,NULL,NULL,NULL
+101912,Oakwood University,Huntsville,AL,www.oakwood.edu,455,425,NULL
+101949,Alabama Southern Community College,Monroeville,AL,www.coastalalabama.edu,NULL,NULL,NULL
+101958,Prince Institute-Southeast,Elmhurst,IL,princeinstitute.edu,NULL,NULL,NULL
+101994,Reid State Technical College,Evergreen,AL,www.rstc.edu,NULL,NULL,NULL
+102030,Bishop State Community College,Mobile,AL,www.bishop.edu,NULL,NULL,NULL
+102049,Samford University,Birmingham,AL,www.samford.edu,570,559,555
+102058,Selma University,Selma,AL,selmauniversity.edu,NULL,NULL,NULL
+102067,Shelton State Community College,Tuscaloosa,AL,www.sheltonstate.edu,NULL,NULL,NULL
+102076,Snead State Community College,Boaz,AL,www.snead.edu,NULL,NULL,NULL
+102094,University of South Alabama,Mobile,AL,www.southalabama.edu,515,510,500
+102234,Spring Hill College,Mobile,AL,www.shc.edu,550,545,NULL
+102261,Southeastern Bible College,Birmingham,AL,sebc.edu/,NULL,NULL,560
+102270,Stillman College,Tuscaloosa,AL,www.stillman.edu,405,420,NULL
+102298,Talladega College,Talladega,AL,www.talladega.edu,NULL,NULL,NULL
+102313,H Councill Trenholm State Community College,Montgomery,AL,www.trenholmstate.edu,NULL,NULL,NULL
+102368,Troy University,Troy,AL,www.troy.edu,503,540,NULL
+102377,Tuskegee University,Tuskegee,AL,www.tuskegee.edu,500,500,NULL
+102395,United States Sports Academy,Daphne,AL,www.ussa.edu,NULL,NULL,NULL
+102429,Bevill State Community College,Jasper,AL,www.bscc.edu,NULL,NULL,NULL
+102553,University of Alaska Anchorage,Anchorage,AK,www.uaa.alaska.edu,NULL,NULL,NULL
+102580,Alaska Bible College,Palmer,AK,www.akbible.edu/,NULL,NULL,NULL
+102614,University of Alaska Fairbanks,Fairbanks,AK,www.uaf.edu,540,535,510
+102632,University of Alaska Southeast,Juneau,AK,www.uas.alaska.edu,NULL,NULL,NULL
+102669,Alaska Pacific University,Anchorage,AK,www.alaskapacific.edu,NULL,NULL,455
+102711,AVTEC-Alaska's Institute of Technology,Seward,AK,www.avtec.edu/,NULL,NULL,NULL
+102845,Charter College,Vancouver,WA,www.chartercollege.edu,NULL,NULL,NULL
+103501,Alaska Career College,Anchorage,AK,www.alaskacareercollege.edu,NULL,NULL,NULL
+103741,Empire Beauty School-Tucson,Tucson,AZ,www.empire.edu,NULL,NULL,NULL
+103778,Thunderbird School of Global Management,Glendale,AZ,https://thunderbird.asu.edu/,NULL,NULL,NULL
+103811,American Institute of Trucking,Phoenix,AZ,www.ait-schools.com,NULL,NULL,NULL
+103893,Carrington College-Phoenix North,Phoenix,AZ,www.carrington.edu,NULL,NULL,NULL
+103909,Carrington College-Mesa,Mesa,AZ,www.carrington.edu,NULL,NULL,NULL
+103927,Carrington College-Tucson,Tucson,AZ,www.carrington.edu,NULL,NULL,NULL
+103945,CollegeAmerica-Flagstaff,Flagstaff,AZ,www.collegeamerica.edu,NULL,NULL,NULL
+103954,Arizona Academy of Beauty-East,Tucson,AZ,www.arizonaacademy.com,NULL,NULL,NULL
+103963,Arizona Automotive Institute,Glendale,AZ,www.aai.edu,NULL,NULL,NULL
+104090,Brookline College-Phoenix,Phoenix,AZ,www.brooklinecollege.edu,NULL,NULL,NULL
+104151,Arizona State University-Tempe,Tempe,AZ,www.asu.edu/,565,585,NULL
+104160,Arizona Western College,Yuma,AZ,www.azwestern.edu,NULL,NULL,NULL
+104179,University of Arizona,Tucson,AZ,www.arizona.edu,NULL,NULL,NULL
+104188,Southwest University of Visual Arts-Tucson,Tucson,AZ,www.suva.edu,NULL,NULL,NULL
+104346,Central Arizona College,Coolidge,AZ,www.centralaz.edu,NULL,NULL,NULL
+104364,Brown Mackie College-Tucson,Tucson,AZ,www.brownmackie.edu/locations/tucson,NULL,NULL,NULL
+104391,Charles of Italy Beauty College,Lake Havasu City,AZ,www.charlesofitaly.edu,NULL,NULL,NULL
+104425,Cochise County Community College District,Sierra Vista,AZ,https://www.cochise.edu,NULL,NULL,NULL
+104434,Empire Beauty School-Flagstaff,Flagstaff,AZ,www.empire.edu,NULL,NULL,NULL
+104443,Empire Beauty School-Chandler,Chandler,AZ,www.empire.edu,NULL,NULL,NULL
+104504,Cortiva Institute-Tucson,Tucson,AZ,www.cortiva.com/,NULL,NULL,NULL
+104568,Avalon School of Cosmetology-Mesa,Mesa,AZ,avalon.edu/locations/mesa-az/,NULL,NULL,NULL
+104577,Eastern Arizona College,Thatcher,AZ,www.eac.edu,NULL,NULL,NULL
+104586,Embry-Riddle Aeronautical University-Prescott,Prescott,AZ,prescott.erau.edu/,NULL,NULL,NULL
+104665,School of Architecture at Taliesin,Scottsdale,AZ,www.taliesin.edu,NULL,NULL,NULL
+104708,Glendale Community College,Glendale,AZ,www.gccaz.edu,NULL,NULL,NULL
+104717,Grand Canyon University,Phoenix,AZ,www.gcu.edu,NULL,NULL,NULL
+104911,Olympian Academy of Cosmetology,Tempe,AZ,www.internationalacademyofhairdesign.com,NULL,NULL,NULL
+105145,GateWay Community College,Phoenix,AZ,www.gatewaycc.edu,NULL,NULL,NULL
+105154,Mesa Community College,Mesa,AZ,www.mesacc.edu,NULL,NULL,NULL
+105206,Mohave Community College,Kingman,AZ,https://www.mohave.edu,NULL,NULL,NULL
+105215,Universal Technical Institute of Arizona Inc-Motorcycle Mechanics Institute Division,Phoenix,AZ,www.uti.edu/,NULL,NULL,NULL
+105297,Dine College,Tsaile,AZ,www.dinecollege.edu,NULL,NULL,NULL
+105330,Northern Arizona University,Flagstaff,AZ,https://nau.edu/,NULL,NULL,NULL
+105349,Northland Pioneer College,Holbrook,AZ,www.npc.edu,NULL,NULL,NULL
+105367,Ottawa University-Phoenix,Phoenix,AZ,www.ottawa.edu,NULL,NULL,NULL
+105428,Phoenix College,Phoenix,AZ,www.phoenixcollege.edu,NULL,NULL,NULL
+105482,Cortiva Institute-Scottsdale,Scottsdale,AZ,www.cortiva.com/,NULL,NULL,NULL
+105525,Pima Community College,Tucson,AZ,www.pima.edu,NULL,NULL,NULL
+105534,Pima Medical Institute-Tucson,Tucson,AZ,pmi.edu,NULL,NULL,NULL
+105543,Pima Medical Institute-Albuquerque,Albuquerque,NM,pmi.edu,NULL,NULL,NULL
+105589,Prescott College,Prescott,AZ,www.prescott.edu,550,510,505
+105659,Refrigeration School Inc,Phoenix,AZ,https://www.refrigerationschool.com,NULL,NULL,NULL
+105668,Rio Salado College,Tempe,AZ,www.rio.maricopa.edu,NULL,NULL,NULL
+105677,Roberto-Venn School of Luthiery,Phoenix,AZ,www.roberto-venn.com,NULL,NULL,NULL
+105701,Hair Academy of Safford,Safford,AZ,hairacademysafford.com,NULL,NULL,NULL
+105747,Scottsdale Community College,Scottsdale,AZ,www.scottsdalecc.edu,NULL,NULL,NULL
+105792,South Mountain Community College,Phoenix,AZ,www.southmountaincc.edu,NULL,NULL,NULL
+105899,Arizona Christian University,Phoenix,AZ,www.arizonachristian.edu,474,500,NULL
+105987,Tucson College,Tucson,AZ,www.tucsoncollege.edu,NULL,NULL,NULL
+106041,Universal Technical Institute of Arizona Inc,Avondale,AZ,www.uti.edu,NULL,NULL,NULL
+106102,Western International University,Tempe,AZ,www.west.edu,NULL,NULL,NULL
+106111,Empire Beauty School-NW Phoenix,Phoenix,AZ,www.empire.edu,NULL,NULL,NULL
+106148,Yavapai College,Prescott,AZ,www.YC.EDU,NULL,NULL,NULL
+106245,University of Arkansas at Little Rock,Little Rock,AR,ualr.edu/www/,490,505,475
+106263,University of Arkansas for Medical Sciences,Little Rock,AR,www.uams.edu,NULL,NULL,NULL
+106306,Arkansas Baptist College,Little Rock,AR,www.arkansasbaptist.edu,NULL,NULL,NULL
+106315,Arkansas Beauty School-Little Rock,Little Rock,AR,arkbeautyschool.com,NULL,NULL,NULL
+106324,Arkansas Beauty College,Russellville,AR,www.arkansasbeautycollegersvlar.com/,NULL,NULL,NULL
+106342,Lyon College,Batesville,AR,www.lyon.edu,498,535,510

@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace FileIO
 {
-    class Program
+    class ProgramStub
     {
-        static void Main(string[] args)
+        static void MainStub(string[] args)
         {
             // Ask the user what they would like to call their file.  
 
