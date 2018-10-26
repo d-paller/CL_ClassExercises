@@ -25,6 +25,10 @@ namespace CSVHelperExample
 
         public int? SATWritingAverage { get; set; }
 
+        /// <summary>
+        /// Print each property name with it's value on a new line
+        /// </summary>
+        /// <returns>A string.... duh</returns>
         public override string ToString()
         {
             StringBuilder sb = new StringBuilder();
@@ -36,7 +40,6 @@ namespace CSVHelperExample
                 .Append("\nSAT Average Reading Score: ").Append(SATReadingAverage)
                 .Append("\nSAT Average Math Score: ").Append(SATMathAverage)
                 .Append("\nSAT Average Writing Score: ").Append(SATWritingAverage);
-
 
             return sb.ToString();
         }
