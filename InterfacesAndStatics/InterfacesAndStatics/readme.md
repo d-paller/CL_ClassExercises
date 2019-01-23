@@ -25,7 +25,7 @@ the interface.
 		{<br>
 			void Run(int speed);<br>
 			void Bark();<br>
-		}```
+		}
 6. Now, have your class *impliment* the interface.  You do this using the colon operator.  
 This would look like <code>public class Dog : IDog </code>
 7. You are going to get a build error because the class doesn't impliment the interface.  C# is
@@ -65,4 +65,4 @@ public Main() {
 	Car.NumberOfDoors = 4;
 	Car.Drive();
 	Car mustang = new Car(); // This will error
-}```
+}
