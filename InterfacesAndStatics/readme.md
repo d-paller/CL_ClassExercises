@@ -21,11 +21,11 @@ the interface.
    - Something simple like if it's animal, make a run or eat method, something all animals do.
    - An interface could look something like this:
 ```
-	 public interface IDog 
-		{
-			void Run(int speed);
-			void Bark();
-		}
+public interface IDog 
+{
+	void Run(int speed);
+	void Bark();
+}
 ```
 6. Now, have your class *impliment* the interface.  You do this using the colon operator.  
 This would look like <code>public class Dog : IDog </code>
@@ -56,15 +56,18 @@ Static Keyword
 5. To use the static class, simply use the class name.
 	- Example:
 ```
-public static class Car { 
+public static class Car 
+{ 
 	public static int NumberOfDoors { get; set; }
+	
 	public static void Drive()
 	{
 		Console.Write("Car is driving");
 	}
 }
 
-public Main() {
+public Main() 
+{
 	Car.NumberOfDoors = 4;
 	Car.Drive();
 	Car mustang = new Car(); // This will error
