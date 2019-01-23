@@ -54,16 +54,15 @@ Static Keyword
    There is only one instance of the class from the start of the program until it stops.
 5. To use the static class, simply use the class name.
 	- Example:<br>
-<code>public static class Car {
-public static int NumberOfDoors { get; set; }
-	public static void Drive() 
-	{
-		Console.Write("Car is driving");
-	}
-}
-public Main() {
-	Car.NumberOfDoors = 4;
-	Car.Drive();
-	Car mustang = new Car(); // This will error 
-}
-</code>
+<code>public static class Car { <br>
+public static int NumberOfDoors { get; set; }<br>
+	public static void Drive() <br>
+	{<br>
+		Console.Write("Car is driving");<br>
+	}<br>
+}<br>
+public Main() {<br>
+	Car.NumberOfDoors = 4;<br>
+	Car.Drive();<br>
+	Car mustang = new Car(); // This will error <br>
+}<br></code>
