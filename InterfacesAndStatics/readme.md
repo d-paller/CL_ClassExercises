@@ -20,12 +20,13 @@ the interface.
 5. Add a method to your interface
    - Something simple like if it's animal, make a run or eat method, something all animals do.
    - An interface could look something like this:
-	 <code>
-		public interface IDog <br>
-		{<br>
-			void Run(int speed);<br>
-			void Bark();<br>
-		}</code>
+```
+	 public interface IDog 
+		{
+			void Run(int speed);
+			void Bark();
+		}
+```
 6. Now, have your class *impliment* the interface.  You do this using the colon operator.  
 This would look like <code>public class Dog : IDog </code>
 7. You are going to get a build error because the class doesn't impliment the interface.  C# is
@@ -53,17 +54,19 @@ Static Keyword
    - This is because all static classes are created at runtime and cannot be instantiated. 
    There is only one instance of the class from the start of the program until it stops.
 5. To use the static class, simply use the class name.
-	- Example:<br>
-<code>public static class Car {
-public static int NumberOfDoors { get; set; }
-	public static void Drive() 
+	- Example:
+```
+public static class Car { 
+	public static int NumberOfDoors { get; set; }
+	public static void Drive()
 	{
 		Console.Write("Car is driving");
 	}
 }
+
 public Main() {
 	Car.NumberOfDoors = 4;
 	Car.Drive();
-	Car mustang = new Car(); // This will error 
+	Car mustang = new Car(); // This will error
 }
-</code>
+```
