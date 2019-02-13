@@ -15,6 +15,7 @@
 	- The files first line is a number which is the number of cities in the file.
 	- Since the ReadLine returns a string, you will need to convert that to a int using int.Parse()
 8. Initialize your array with the arraySize
+	- Example: `string[] a = new string[arraySize];`
 9. Create a for loop to iterate over the length of the array
 10. Inside of the loop, use the readers ReadLine() method to add values to the array
 	- Use the i variable to index your array
@@ -32,7 +33,8 @@
 		- The ../ means "up one folder"
 16. Loop through the array and print out all of the values in the array
 17. Run the program.
-	- You may get an error if you don't input your path correctly.  Use the exception message it gives you to figure out where you need to navigate to.
+	- You may get an error if you don't input your path correctly.  Use the exception message to figure out where you need to navigate to to find the file.	
+18. Remove one city from the file without changing the number at the top and run the program again.  Did it work?  Why or why not?
 
 # Bonus
 - Add more files to your data file. Be sure to change the number at the top.
