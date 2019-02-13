@@ -6,11 +6,11 @@
 	- Add a method signature to your interface and call it "Read".  It will return an array of strings and take one string parameter called "path"
 4. Make your FileParser class impliment IFileParser (you will get errors if you do this properly)
 	- Add the Read method to your class.
-5. Inside of the read method add two local variable.  One will be an int called "arraySize", the other a string array called "array"
-	- These don't have to be asigned to anthing right now, just declared.
-6. After the variables, create a new StreamReader.
-	- You will have to bring in the System.IO namespace for this.
-	- The constructor takes the path varibale passed in
+5. Inside of the read method add two local variables.  One will be an int called "arraySize", the other a string array called "array"
+	- These don't have to have any value assigned to them right now, just declared.
+6. Below the variables in the method, create a new StreamReader.
+	- You will have to bring in (using) the System.IO namespace for this.
+	- The StreamReader constructor needs a string, use the path varibale passed in
 7. Next, you will use the readers "ReadLine" method to read in the size of the array and assign it to arraySize
 	- The files first line is a number which is the number of cities in the file.
 	- Since the ReadLine returns a string, you will need to convert that to a int using int.Parse()
