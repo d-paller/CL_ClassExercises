@@ -10,7 +10,7 @@
 	- These don't have to have any value assigned to them right now, just declared.
 6. Below the variables in the method, create a new StreamReader.
 	- You will have to bring in (using) the System.IO namespace for this.
-	- The StreamReader constructor needs a string, use the path varibale passed in
+	- The StreamReader constructor needs a string, use the path variable passed in
 7. Next, you will use the readers "ReadLine" method to read in the size of the array and assign it to arraySize
 	- The files first line is a number which is the number of cities in the file.
 	- Since the ReadLine returns a string, you will need to convert that to a int using int.Parse()
