@@ -43,3 +43,6 @@
 - See if you can add cities to the file from the command line.
 	- You would need to use StreamWriter and figure out how to "append" instead of "overwrite"
 	- You will need to add a new method to FileParser (which means you will need to add one to the interface as well)
+	- Note: the current file works off of arrays being the size of the number on the first line.  Since you are adding a city, you will need to account for this.  There are a couple things you could do:
+		- Rewrite the entire file with the new number of total cities
+		- Disregard the number and use the StreamReaders EndOfStream boolean property
